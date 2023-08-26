@@ -1,6 +1,6 @@
 # Code Signal Arcade
 
-Practice questions from the Arcade on Code Signal. Completed in Java and Python
+Practice questions from the Arcade on Code Signal. Completed in Java and Python, with tests done with JUnit 5.
 
 Questions:
 
